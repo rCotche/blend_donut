@@ -1,0 +1,34 @@
+click sur le cube puis delete
+puis
+add menu en haut ou les hot keys shift + a (pour add)
+puis
+menu > mesh > monkey (called primitives)
+
+hold middle button puis drag || aller sur le gizmo en haut à droite dans la zone grise et drag it || edit > preference > input > enbale emukate 3rd button > hold alt + drag
+
+scroll up and  down to zoom || click sur la loupe n avancer la souris de l'avnat vers l'arriere || ctrl + hold midl button + avancer la souris de l'avnat vers l'arriere
+
+render mode en haut a droite
+
+shift + hold midl mouse || click sur la main et drag la souris
+
+move mode à gauche || select mode > type G > drag mouse > escape || right click pour sortir du grab mode
+move mode à gauche || select mode > type G > drag mouse > click to confirm the new position
+
+move mode à gauche || select mode > type G > type Z > drag mouse = move the object sur l'axe Z
+move mode à gauche || select mode > type G > type Y > drag mouse = move the object sur l'axe Y
+move mode à gauche || select mode > type G > type X > drag mouse = move the object sur l'axe X
+move mode à gauche || select mode > type G > hold midle button > drag mouse
+
+
+tout en haut, menu render > render image || f12 > menu en image
+
+regarder a travers la camera en clickant sur le bouton camera à driote || number pad zero
+tout a droite (dans l'inspector ou scene tree) menu collecrion > select camera > petite fleche à coté (hit n image) > tab view > enable camera to view
+
+select object > en dessous du menu collection la partie properties > à gauche de la properties tab material > click sur new
+puis
+click sur base color =  chaneg color
+
+scale mode à gauche || select mode > type S
+rotate mode à gauche || select mode > type R
