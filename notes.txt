@@ -77,3 +77,7 @@ select a vertex > en haut au centre (ref image) enabla proportional Editing > ty
 en haut menu edit > preference > keymap > search page
 
 hold alt + select edge = select all the edge
+16:04 - If you are not able to select edge as shown by selecting alt+left_click, it is because:
+'You have checked "Emulate 3 button mouse" in preference setting' in previous video.
+
+en haut menu file > save as
