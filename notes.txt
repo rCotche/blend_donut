@@ -35,3 +35,45 @@ rotate mode à gauche || select mode > type R
 
 =======================================
 
+file > new > general
+
+en bas à gauche > click (option du mesh justae après création) || f9
+
+select object > right click > shade smooth  = smooth object
+
+properties window > tab modifier (clé mecanique) > add modifier > generate > subdivision surface (ctrl + 1 à test)
+
+debut explanation
+
+prend une face puis la divise en 4
+
+level viewport
+
+level 0 = model d'orgine
+level 1 = prend une face du model level 0 puis la divise en 4
+level 2 = prend une face du model level 1 puis la divise en 4
+etc
+
+a pour effet de rendre plus smooth
+
+TIPS
+viewport c'est le mode par default et on a pas besoin que ce soit smooth par contre le render il y aura en general 2,3 niveau supplementaire
+
+fin explanantion
+
+en haut à droite, liste deroulante (object mode)
+
+les points sont des vertices, un point c'est un vertex
+
+2 points joined by a line is called an edge
+
+4 point joined is called a face
+
+tab to switch between object mode n edit mode
+
+select a vertex > en haut au centre (ref image) enabla proportional Editing > type G
+select a vertex > en haut au centre (ref image) enabla proportional Editing > type G > scroll up n down = augmenter ou reduire le cercle d'influence
+select a vertex > en haut au centre (ref image) enabla proportional Editing > type G > page up n down = augmenter ou reduire le cercle d'influence
+en haut menu edit > preference > keymap > search page
+
+hold alt + select edge = select all the edge
