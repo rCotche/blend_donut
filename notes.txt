@@ -32,3 +32,6 @@ click sur base color =  chaneg color
 
 scale mode à gauche || select mode > type S
 rotate mode à gauche || select mode > type R
+
+=======================================
+
