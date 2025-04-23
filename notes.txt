@@ -37,7 +37,7 @@ rotate mode à gauche || select mode > type R
 
 file > new > general
 
-en bas à gauche > click (option du mesh justae après création) || f9
+en bas à gauche > click (option du mesh justae après création) || F9
 
 select object > right click > shade smooth  = smooth object
 
@@ -81,3 +81,46 @@ hold alt + select edge = select all the edge
 'You have checked "Emulate 3 button mouse" in preference setting' in previous video.
 
 en haut menu file > save as
+
+=======================================
+
+en haut à coté du menu add, le menu object > duplicate objects
+puis
+pour cancel le movement j'appuie sur escape || right click
+
+dans la collection tree rename object en db click || qd la souris est au dessus de la scene viewport j'appuie sur F2
+
+en haut à droite (a la gauche menu render mode & viewport mode) click sur le mode toggle x ray
+
+a droite dans les menu zoom, grab, camera, le dernier c'est pour switch de mode entre perspective et orthographic
+
+lorsque les vertices sont selected > hit delete button > select vertices
+
+select object > in properties section > tab modifier > new modifier > generate > solidify = add thickness > offset 1.0000
+puis
+select object > in properties section > tab modifier > solidify > thickness 0.025
+
+select object > in properties section > tab modifier > solidify > hide in edit mode (ref image)
+
+
+
+en haut snap mode (à coté de proportional edit), enable it > change to snap to face avec la liste déroulante juste à coté
+en haut snap mode (à coté de proportional edit), enable it > change to snap to face project avec la liste déroulante juste à coté
+
+
+switch to object mode > select object > in properties section > tab modifier > subdivision > click sur la petite fleche (ref image)
+
+hold alt + select edge puis ctrl + (numpad + || numpad -) || en haut (a coté du menu add) menu select > more/less > More || Less
+puis
+type H = hide, alt + H to display || en haut (a coté du menu add) menu mesh > show/hide > reveal || hide
+
+select object > in properties section > tab modifier > new modifier > generate > subdivision surface
+
+TIPS
+l'ordre des modifier est important
+
+solidify en 1er puis subdivision en 2nd
+
+select object > in properties section > tab modifier > solidify > edge data > crease inner 1.000
+
+pour selectionner 2 vertex = shift + select > type E (extrude)
