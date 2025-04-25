@@ -167,3 +167,14 @@ puis
 avec inflate mode enable > select mesh filter > drag in/out to inflate/deflate
 
 smooth brus accessible qd le tool brus is selected
+
+=======================================
+
+render mode >properties section > tab materials > new material > base color
+
+render mode >properties section > tab materials > rougthness (valeur basse resemble à un mirroir/ valeur eleve apparence poreuse)
+
+"parented" 2 objects : select the child > shift + select the parent > ctrl + p || F3 > type "parent" > object keep transform
+
+
+render mode >select the plane >properties section > tab materials > new material > btn à gauche de la barre de couleur (ref image) > image texture
