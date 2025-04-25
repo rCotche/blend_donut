@@ -124,3 +124,32 @@ solidify en 1er puis subdivision en 2nd
 select object > in properties section > tab modifier > solidify > edge data > crease inner 1.000
 
 pour selectionner 2 vertex = shift + select > type E (extrude)
+
+=======================================
+
+ref image
+si il y a un probleme avec la mesh alors : edit mode > enable snap mode > disable proportional edit > select vertex > move back to a proper position
+
+ref image
+si il y a un probleme avec la mesh alors (2e) : select object > in properties section > tab modifier > new modifier > deform > shrinkwrap
+puis
+target > click on pipette > select the object that i want to snap it > Apply (in object mode)
+
+l'odre à son importance : shrinkwrap ensuite solidify ensuite subdivision
+
+Apply modifier solidify
+
+switch to sculpting mode (dans la liste deroulante de object mode) > first tool pull out (tir vers l'extérieur) la zone (draw) en bas les différent tool
+||
+switch to sculpting mode (dans la liste deroulante de object mode) > une liste deroulante (ref image)
+
+switch to sculpting mode > type I to switch to inflate tool
+
+switch to sculpting mode > type F to increase/decrease radius (in inflate tool)
+
+switch to sculpting mode > type shift + F to increase/decrease strength (in inflate tool)
+
+PRO TIPS
+ qd low poly, on a besoin de plus de détails car sinon it look "jagged" (ps1 graphics) : modifier > subdivision > increase level viewport > Apply
+
+switch to sculpting mode > type G to switch to grab mode
