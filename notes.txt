@@ -152,4 +152,18 @@ switch to sculpting mode > type shift + F to increase/decrease strength (in infl
 PRO TIPS
  qd low poly, on a besoin de plus de détails car sinon it look "jagged" (ps1 graphics) : modifier > subdivision > increase level viewport > Apply
 
-switch to sculpting mode > type G to switch to grab mode
+switch to sculpting mode > type G to switch to grab mode ("pousser le mesh")
+
+switch to sculpting mode > type M mask mode (paint gray zone)
+puis
+en haut à coté du menu radius et strength la liste dérouleante brush ( ref image ) > click on > enable front face only
+
+type numpad / to isolate the object
+
+type ctrl + I to invert the mask
+
+(ref image) en haut de la liste déroulante sculpting mode > mask menu > smooth mask
+puis
+avec inflate mode enable > select mesh filter > drag in/out to inflate/deflate
+
+smooth brus accessible qd le tool brus is selected
