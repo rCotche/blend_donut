@@ -178,3 +178,16 @@ render mode >properties section > tab materials > rougthness (valeur basse resem
 
 
 render mode >select the plane >properties section > tab materials > new material > btn à gauche de la barre de couleur (ref image) > image texture
+https://www.poliigon.com
+puis
+open > select image dont le name se termine par "baseColor"
+puis
+tout en haut au niveau des menu "File", select le menu shading
+
+close windows that i dont use, je clique droit sur le bord puis je sélectionne join left (parce qu'ils sont à gauche de mon ecran)
+
+en bas (haut niveau du "terminal"), node setup (material node). Left to right function, blender realise ce qui est à gauche d'abord vers la droite
+
+shift + A to add node
+
+from the point roughtness, drag the mouse > menu display, type image > image texture color
