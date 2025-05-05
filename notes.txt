@@ -191,3 +191,27 @@ en bas (haut niveau du "terminal"), node setup (material node). Left to right fu
 shift + A to add node
 
 from the point roughtness, drag the mouse > menu display, type image > image texture color
+puis
+(dans le nœud image texture color) color space > click on liste deroulante > non color
+
+from the point normal, drag the mouse > menu display, type image > image texture color
+puis
+(dans le nœud image texture color) color space > click on liste deroulante > non color
+puis
+shift + A to add node > vector > normal map > drag it on the line between "image texture color normal" & "material node" (ref image)
+
+ctrl + space pour mettre en grand le preview
+
+en haut à droite material preview (ref image)
+
+tout en haut au niveau des menu "File", select le menu texture paint
+
+Bien vérifier que le material qu'on va changé est le donut (l'objet selectionné)
+isolate object > material preview > properties section > tab materials > btn à gauche de la barre de couleur (ref image) > image texture
+puis
+new > name image
+
+en haut à gauche liste deroulante des images (ref image)
+
+en haut les btn de selction color, la 1ere couleur doit être la couleur de base donut
+en haut les btn de selction color > click > pipette btn > click > click on image base donut (ref image)
