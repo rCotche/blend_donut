@@ -215,3 +215,8 @@ en haut à gauche liste deroulante des images (ref image)
 
 en haut les btn de selction color, la 1ere couleur doit être la couleur de base donut
 en haut les btn de selction color > click > pipette btn > click > click on image base donut (ref image)
+
+en haut à coté des btn de selction color > strength 0.3
+
+save the image qu'on a utilisé pour le texture painting
+en haut à gauche à coté de la liste déroulante de la selection d'image > click on menu image > save (test/part5)
